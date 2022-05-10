@@ -1,5 +1,5 @@
 # Desafio-de-Projeto-01
-Desafio de projeto do Módulo 01 do Bootcamp GFT Starts
+Desafio de projeto do Módulo 01 do **Bootcamp GFT Starts**
 
 <h2>Cursos Finalziados na DIO</h2>
 - Introdução à Programação e Pensamento Computacional<br>
